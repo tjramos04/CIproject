@@ -1,1 +1,2 @@
-<h2>this is About page.</h2>
+<h2><?= $title ?></h2>
+<p>This is version 1.0</p>
